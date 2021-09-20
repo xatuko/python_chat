@@ -1,1 +1,1 @@
-# python_chat
+# Пример чата на python
